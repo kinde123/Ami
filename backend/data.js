@@ -1,5 +1,6 @@
 export default  {
-   products:[{
+   products:[
+       {
        _id:'1',
        name: 'Slim Shirt',
        category: 'Shirts',
